@@ -115,11 +115,11 @@ package com.jhonnymichel
 		}
 		public function get fullScreenWidth():Number
 		{
-			returno _fullScreenWidth;
+			return _fullScreenWidth;
 		}
 		public function get fullScreenHeight():Number
 		{
-			returno _fullScreenHeight;
+			return _fullScreenHeight;
 		}
 	}
 }
